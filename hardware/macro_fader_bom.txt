@@ -1,0 +1,18 @@
+Part     Value                              Device                             Package                            Library             Sheet
+C1       0.1uF                              C-EU050-025X075                    C050-025X075                       rcl                 1
+C2       0.1uF                              C-EU050-025X075                    C050-025X075                       rcl                 1
+IC1      TL074P                             TL074P                             DIL14                              linear              1
+J1                                          CONN_05X2SHD                       2X5-SHROUDED                       SparkFun-Connectors 1
+J2       WQP-PJ301M-12_JACK                 WQP-PJ301M-12_JACK                 WQP-PJ301M-12_JACK                 thonkiconn          1
+J3       WQP-PJ301M-12_JACK                 WQP-PJ301M-12_JACK                 WQP-PJ301M-12_JACK                 thonkiconn          1
+J4       WQP-PJ301M-12_JACK                 WQP-PJ301M-12_JACK                 WQP-PJ301M-12_JACK                 thonkiconn          1
+LED1                                        A-1076_RED-GREEN-LED-3MM3MM        A-1076_RED-GREEN-LED-3MM           custom_parts        1
+R1       7k                                 R-EU_0207/7                        0207/7                             resistor            1
+R2       14k                                R-EU_0207/7                        0207/7                             resistor            1
+R3       7k                                 R-EU_0207/7                        0207/7                             resistor            1
+R13      1k                                 R-EU_0207/7                        0207/7                             resistor            1
+R14      1k                                 R-EU_0207/7                        0207/7                             resistor            1
+R15      1k                                 R-EU_0207/7                        0207/7                             resistor            1
+R16      220                                R-EU_0207/7                        0207/7                             resistor            1
+S1       A-4568_MINITOGGLESWITCH_DPDT_ON-ON A-4568_MINITOGGLESWITCH_DPDT_ON-ON A-4568_MINITOGGLESWITCH_DPDT_ON-ON custom_parts        1
+VR1      F4505-N0SC2B10K                    F4505-N0SC2B10K                    F4505-N0SC2B10K                    custom_parts        1
